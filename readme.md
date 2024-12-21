@@ -6,6 +6,8 @@ The Virtual Yoga Game is a decentralized application (DApp) built on the Ethereu
 #Contract Address
 Ethereum Contract Address:
 0x6F45d2187bDCBf4E683f85eef9e687C4B9377101
+![image](https://github.com/user-attachments/assets/a7c1ac0c-678b-45a7-8de1-a0367068aa5d)
+
 
 #Project Vision
 The Virtual Yoga Game aims to promote healthy living through yoga while leveraging blockchain to provide secure, transparent, and immutable tracking of user progress and rewards. By combining fitness with tokenized incentives, we strive to encourage users to engage with yoga regularly and track their improvement in a fun, interactive manner. The project’s long-term vision is to create a platform that integrates fitness and decentralized finance (DeFi), where users can be rewarded for their physical activity and personal well-being.
