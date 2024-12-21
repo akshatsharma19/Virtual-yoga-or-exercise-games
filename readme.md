@@ -6,7 +6,8 @@ The Virtual Yoga Game is a decentralized application (DApp) built on the Ethereu
 #Contract Address
 Ethereum Contract Address:
 0x6F45d2187bDCBf4E683f85eef9e687C4B9377101
-![image](https://github.com/user-attachments/assets/a7c1ac0c-678b-45a7-8de1-a0367068aa5d)
+![image](https://github.com/user-attachments/assets/9a2c441f-a500-4e7b-afcb-28a0bed70f7c)
+
 
 
 #Project Vision
